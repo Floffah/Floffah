@@ -20,5 +20,3 @@ I am Floffah!
 A web and software developer from Scotland.
 
 Check out my [blog](https://blog.floffah.dev) and my [website](https://floffah.dev) (unfinished)
-
-My most active project at the moment is [Mangium](https://github.com/mangium/mangium). Feel free to have a look around and I am looking for people to help contribute!

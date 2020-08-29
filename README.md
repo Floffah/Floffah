@@ -9,6 +9,9 @@ A web and software developer from Scotland.
 
 Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https://discord.gg/bc8Y2y9)
 
+### Stats 📊
+![Floffah's github stats](https://github-readme-stats.vercel.app/api?username=floffah&count_private=true)
+
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#534](https://github.com//kach/nearley/issues/534) in [kach/nearley](https://github.com//kach/nearley)

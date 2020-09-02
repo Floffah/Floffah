@@ -14,9 +14,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#352](https://github.com//jimkyndemeyer/js-graphql-intellij-plugin/issues/352) in [jimkyndemeyer/js-graphql-intellij-plugin](https://github.com//jimkyndemeyer/js-graphql-intellij-plugin)
+1. 🎉 Merged PR [#1](https://github.com//Mangium/subserver/pull/1) in [Mangium/subserver](https://github.com//Mangium/subserver)
 2. 🗣 Commented on [#352](https://github.com//jimkyndemeyer/js-graphql-intellij-plugin/issues/352) in [jimkyndemeyer/js-graphql-intellij-plugin](https://github.com//jimkyndemeyer/js-graphql-intellij-plugin)
-3. ❗️ Opened issue [#534](https://github.com//kach/nearley/issues/534) in [kach/nearley](https://github.com//kach/nearley)
-4. 🗣 Commented on [#6599](https://github.com//typeorm/typeorm/issues/6599) in [typeorm/typeorm](https://github.com//typeorm/typeorm)
+3. 🗣 Commented on [#352](https://github.com//jimkyndemeyer/js-graphql-intellij-plugin/issues/352) in [jimkyndemeyer/js-graphql-intellij-plugin](https://github.com//jimkyndemeyer/js-graphql-intellij-plugin)
+4. ❗️ Opened issue [#534](https://github.com//kach/nearley/issues/534) in [kach/nearley](https://github.com//kach/nearley)
 5. 🗣 Commented on [#6599](https://github.com//typeorm/typeorm/issues/6599) in [typeorm/typeorm](https://github.com//typeorm/typeorm)
 <!--END_SECTION:activity-->

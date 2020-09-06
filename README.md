@@ -15,8 +15,8 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
-2. ❗️ Closed issue [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
-3. 🗣 Commented on [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
+2. 🗣 Commented on [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
+3. ❗️ Closed issue [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
 4. 🗣 Commented on [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
-5. ❗️ Opened issue [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
+5. 🗣 Commented on [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
 <!--END_SECTION:activity-->

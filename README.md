@@ -16,7 +16,7 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com//didicodes/javascript-dev-bookmarks/issues/7) in [didicodes/javascript-dev-bookmarks](https://github.com//didicodes/javascript-dev-bookmarks)
 2. 🗣 Commented on [#7](https://github.com//didicodes/javascript-dev-bookmarks/issues/7) in [didicodes/javascript-dev-bookmarks](https://github.com//didicodes/javascript-dev-bookmarks)
-3. 🗣 Commented on [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
+3. 🗣 Commented on [#7](https://github.com//didicodes/javascript-dev-bookmarks/issues/7) in [didicodes/javascript-dev-bookmarks](https://github.com//didicodes/javascript-dev-bookmarks)
 4. 🗣 Commented on [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
-5. ❗️ Closed issue [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
+5. 🗣 Commented on [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
 <!--END_SECTION:activity-->

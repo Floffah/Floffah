@@ -14,9 +14,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#534](https://github.com//kach/nearley/issues/534) in [kach/nearley](https://github.com//kach/nearley)
-2. 🗣 Commented on [#7](https://github.com//didicodes/javascript-dev-bookmarks/issues/7) in [didicodes/javascript-dev-bookmarks](https://github.com//didicodes/javascript-dev-bookmarks)
-3. 🗣 Commented on [#7](https://github.com//didicodes/javascript-dev-bookmarks/issues/7) in [didicodes/javascript-dev-bookmarks](https://github.com//didicodes/javascript-dev-bookmarks)
+1. 🎉 Merged PR [#1](https://github.com//Floffah/confuscript/pull/1) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
+2. 💪 Opened PR [#1](https://github.com//Floffah/confuscript/pull/1) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
+3. ❗️ Closed issue [#534](https://github.com//kach/nearley/issues/534) in [kach/nearley](https://github.com//kach/nearley)
 4. 🗣 Commented on [#7](https://github.com//didicodes/javascript-dev-bookmarks/issues/7) in [didicodes/javascript-dev-bookmarks](https://github.com//didicodes/javascript-dev-bookmarks)
-5. 🗣 Commented on [#4296](https://github.com//PaperMC/Paper/issues/4296) in [PaperMC/Paper](https://github.com//PaperMC/Paper)
+5. 🗣 Commented on [#7](https://github.com//didicodes/javascript-dev-bookmarks/issues/7) in [didicodes/javascript-dev-bookmarks](https://github.com//didicodes/javascript-dev-bookmarks)
 <!--END_SECTION:activity-->

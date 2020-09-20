@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
-2. 🎉 Merged PR [#1](https://github.com//Floffah/confuscript/pull/1) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
-3. 💪 Opened PR [#1](https://github.com//Floffah/confuscript/pull/1) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
-4. ❗️ Closed issue [#534](https://github.com//kach/nearley/issues/534) in [kach/nearley](https://github.com//kach/nearley)
-5. 🗣 Commented on [#7](https://github.com//didicodes/javascript-dev-bookmarks/issues/7) in [didicodes/javascript-dev-bookmarks](https://github.com//didicodes/javascript-dev-bookmarks)
+1. ❗️ Closed issue [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
+2. 🗣 Commented on [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
+3. ❗️ Opened issue [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
+4. 🎉 Merged PR [#1](https://github.com//Floffah/confuscript/pull/1) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
+5. 💪 Opened PR [#1](https://github.com//Floffah/confuscript/pull/1) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
 <!--END_SECTION:activity-->

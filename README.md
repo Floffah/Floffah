@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
-2. 🗣 Commented on [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
-3. ❗️ Opened issue [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
-4. 🎉 Merged PR [#1](https://github.com//Floffah/confuscript/pull/1) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
-5. 💪 Opened PR [#1](https://github.com//Floffah/confuscript/pull/1) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
+1. ❗️ Opened issue [#5017](https://github.com//github/linguist/issues/5017) in [github/linguist](https://github.com//github/linguist)
+2. ❗️ Closed issue [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
+3. 🗣 Commented on [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
+4. ❗️ Opened issue [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
+5. 🎉 Merged PR [#1](https://github.com//Floffah/confuscript/pull/1) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
 <!--END_SECTION:activity-->

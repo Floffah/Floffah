@@ -9,9 +9,8 @@ A web and software developer from Scotland.
 
 Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https://discord.gg/bc8Y2y9)
 
-![Floffah's github stats](https://github-readme-stats.vercel.app/api?username=floffah&count_private=true&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floffah&layout=compact&theme=default)
+<img src="https://github-profile-trophy.vercel.app/?username=floffah"/>
+<img src="https://github-readme-stats.vercel.app/api?username=floffah&count_private=true&show_icons=true&theme=default" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floffah&layout=compact&theme=default" height="200"/>
 
 ---
 ### Recent Activity ⚡

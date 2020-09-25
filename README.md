@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//Floffah/versionpush/issues/1) in [Floffah/versionpush](https://github.com//Floffah/versionpush)
-2. ❗️ Opened issue [#5017](https://github.com//github/linguist/issues/5017) in [github/linguist](https://github.com//github/linguist)
-3. ❗️ Closed issue [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
-4. 🗣 Commented on [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
-5. ❗️ Opened issue [#542](https://github.com//kach/nearley/issues/542) in [kach/nearley](https://github.com//kach/nearley)
+1. 🗣 Commented on [#2](https://github.com//Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
+2. 🗣 Commented on [#2](https://github.com//Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
+3. 🗣 Commented on [#2](https://github.com//Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
+4. 🗣 Commented on [#2](https://github.com//Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
+5. ❗️ Opened issue [#1](https://github.com//Floffah/versionpush/issues/1) in [Floffah/versionpush](https://github.com//Floffah/versionpush)
 <!--END_SECTION:activity-->

@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//Floffah/better-nearley-railroad/issues/1) in [Floffah/better-nearley-railroad](https://github.com//Floffah/better-nearley-railroad)
-2. 🎉 Merged PR [#1](https://github.com//Floffah/better-nearley-railroad/pull/1) in [Floffah/better-nearley-railroad](https://github.com//Floffah/better-nearley-railroad)
-3. 🗣 Commented on [#2](https://github.com//Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
-4. 🗣 Commented on [#2](https://github.com//Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
-5. 🗣 Commented on [#2](https://github.com//Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com//Floffah/confuscript)
+1. 🗣 Commented on [#1](https://github.com/Floffah/better-nearley-railroad/issues/1) in [Floffah/better-nearley-railroad](https://github.com/Floffah/better-nearley-railroad)
+2. 🎉 Merged PR [#1](https://github.com/Floffah/better-nearley-railroad/pull/1) in [Floffah/better-nearley-railroad](https://github.com/Floffah/better-nearley-railroad)
+3. 🗣 Commented on [#2](https://github.com/Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com/Floffah/confuscript)
+4. 🗣 Commented on [#2](https://github.com/Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com/Floffah/confuscript)
+5. 🗣 Commented on [#2](https://github.com/Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com/Floffah/confuscript)
 <!--END_SECTION:activity-->

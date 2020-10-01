@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5017](https://github.com/github/linguist/issues/5017) in [github/linguist](https://github.com/github/linguist)
-2. 🗣 Commented on [#1](https://github.com/Floffah/better-nearley-railroad/issues/1) in [Floffah/better-nearley-railroad](https://github.com/Floffah/better-nearley-railroad)
-3. 🎉 Merged PR [#1](https://github.com/Floffah/better-nearley-railroad/pull/1) in [Floffah/better-nearley-railroad](https://github.com/Floffah/better-nearley-railroad)
-4. 🗣 Commented on [#2](https://github.com/Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com/Floffah/confuscript)
+1. ❗️ Closed issue [#5017](https://github.com/github/linguist/issues/5017) in [github/linguist](https://github.com/github/linguist)
+2. 🗣 Commented on [#5017](https://github.com/github/linguist/issues/5017) in [github/linguist](https://github.com/github/linguist)
+3. 🗣 Commented on [#1](https://github.com/Floffah/better-nearley-railroad/issues/1) in [Floffah/better-nearley-railroad](https://github.com/Floffah/better-nearley-railroad)
+4. 🎉 Merged PR [#1](https://github.com/Floffah/better-nearley-railroad/pull/1) in [Floffah/better-nearley-railroad](https://github.com/Floffah/better-nearley-railroad)
 5. 🗣 Commented on [#2](https://github.com/Floffah/confuscript/issues/2) in [Floffah/confuscript](https://github.com/Floffah/confuscript)
 <!--END_SECTION:activity-->

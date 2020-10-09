@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Treverix/remote/issues/1) in [Treverix/remote](https://github.com/Treverix/remote)
-2. ❗️ Closed issue [#1](https://github.com/Treverix/remote/issues/1) in [Treverix/remote](https://github.com/Treverix/remote)
-3. ❗️ Opened issue [#1](https://github.com/Treverix/remote/issues/1) in [Treverix/remote](https://github.com/Treverix/remote)
-4. ❗️ Closed issue [#5017](https://github.com/github/linguist/issues/5017) in [github/linguist](https://github.com/github/linguist)
-5. 🗣 Commented on [#5017](https://github.com/github/linguist/issues/5017) in [github/linguist](https://github.com/github/linguist)
+1. 💪 Opened PR [#9](https://github.com/deanveloper/SkullCreator/pull/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
+2. 🗣 Commented on [#1](https://github.com/Treverix/remote/issues/1) in [Treverix/remote](https://github.com/Treverix/remote)
+3. ❗️ Closed issue [#1](https://github.com/Treverix/remote/issues/1) in [Treverix/remote](https://github.com/Treverix/remote)
+4. ❗️ Opened issue [#1](https://github.com/Treverix/remote/issues/1) in [Treverix/remote](https://github.com/Treverix/remote)
+5. ❗️ Closed issue [#5017](https://github.com/github/linguist/issues/5017) in [github/linguist](https://github.com/github/linguist)
 <!--END_SECTION:activity-->

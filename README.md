@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12169](https://github.com/babel/babel/issues/12169) in [babel/babel](https://github.com/babel/babel)
-2. 🗣 Commented on [#10746](https://github.com/babel/babel/issues/10746) in [babel/babel](https://github.com/babel/babel)
-3. 🗣 Commented on [#9](https://github.com/deanveloper/SkullCreator/issues/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
-4. 💪 Opened PR [#9](https://github.com/deanveloper/SkullCreator/pull/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
-5. 🗣 Commented on [#1](https://github.com/Treverix/remote/issues/1) in [Treverix/remote](https://github.com/Treverix/remote)
+1. 🗣 Commented on [#12169](https://github.com/babel/babel/issues/12169) in [babel/babel](https://github.com/babel/babel)
+2. ❗️ Opened issue [#12169](https://github.com/babel/babel/issues/12169) in [babel/babel](https://github.com/babel/babel)
+3. 🗣 Commented on [#10746](https://github.com/babel/babel/issues/10746) in [babel/babel](https://github.com/babel/babel)
+4. 🗣 Commented on [#9](https://github.com/deanveloper/SkullCreator/issues/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
+5. 💪 Opened PR [#9](https://github.com/deanveloper/SkullCreator/pull/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
 <!--END_SECTION:activity-->

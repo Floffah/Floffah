@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12169](https://github.com/babel/babel/issues/12169) in [babel/babel](https://github.com/babel/babel)
-2. ❗️ Opened issue [#12169](https://github.com/babel/babel/issues/12169) in [babel/babel](https://github.com/babel/babel)
-3. 🗣 Commented on [#10746](https://github.com/babel/babel/issues/10746) in [babel/babel](https://github.com/babel/babel)
-4. 🗣 Commented on [#9](https://github.com/deanveloper/SkullCreator/issues/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
-5. 💪 Opened PR [#9](https://github.com/deanveloper/SkullCreator/pull/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
+1. ❗️ Opened issue [#8](https://github.com/Mangium/mangium/issues/8) in [Mangium/mangium](https://github.com/Mangium/mangium)
+2. 🗣 Commented on [#7](https://github.com/Mangium/mangium/issues/7) in [Mangium/mangium](https://github.com/Mangium/mangium)
+3. 🗣 Commented on [#7](https://github.com/Mangium/mangium/issues/7) in [Mangium/mangium](https://github.com/Mangium/mangium)
+4. ❗️ Closed issue [#7](https://github.com/Mangium/mangium/issues/7) in [Mangium/mangium](https://github.com/Mangium/mangium)
+5. 🗣 Commented on [#7](https://github.com/Mangium/mangium/issues/7) in [Mangium/mangium](https://github.com/Mangium/mangium)
 <!--END_SECTION:activity-->

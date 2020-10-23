@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6965](https://github.com/typeorm/typeorm/issues/6965) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
-2. ❗️ Opened issue [#8](https://github.com/Mangium/mangium/issues/8) in [Mangium/mangium](https://github.com/Mangium/mangium)
-3. 🗣 Commented on [#7](https://github.com/Mangium/mangium/issues/7) in [Mangium/mangium](https://github.com/Mangium/mangium)
-4. 🗣 Commented on [#7](https://github.com/Mangium/mangium/issues/7) in [Mangium/mangium](https://github.com/Mangium/mangium)
-5. ❗️ Closed issue [#7](https://github.com/Mangium/mangium/issues/7) in [Mangium/mangium](https://github.com/Mangium/mangium)
+1. 🗣 Commented on [#546](https://github.com/kach/nearley/issues/546) in [kach/nearley](https://github.com/kach/nearley)
+2. 🗣 Commented on [#546](https://github.com/kach/nearley/issues/546) in [kach/nearley](https://github.com/kach/nearley)
+3. ❗️ Opened issue [#6965](https://github.com/typeorm/typeorm/issues/6965) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
+4. ❗️ Opened issue [#8](https://github.com/Mangium/mangium/issues/8) in [Mangium/mangium](https://github.com/Mangium/mangium)
+5. 🗣 Commented on [#7](https://github.com/Mangium/mangium/issues/7) in [Mangium/mangium](https://github.com/Mangium/mangium)
 <!--END_SECTION:activity-->

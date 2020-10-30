@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6965](https://github.com/typeorm/typeorm/issues/6965) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
-2. ❗️ Opened issue [#27354](https://github.com/ant-design/ant-design/issues/27354) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
-3. 🗣 Commented on [#546](https://github.com/kach/nearley/issues/546) in [kach/nearley](https://github.com/kach/nearley)
-4. 🗣 Commented on [#546](https://github.com/kach/nearley/issues/546) in [kach/nearley](https://github.com/kach/nearley)
-5. ❗️ Opened issue [#6965](https://github.com/typeorm/typeorm/issues/6965) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
+1. 🎉 Merged PR [#1](https://github.com/Floffah/util/pull/1) in [Floffah/util](https://github.com/Floffah/util)
+2. 💪 Opened PR [#1](https://github.com/Floffah/util/pull/1) in [Floffah/util](https://github.com/Floffah/util)
+3. ❗️ Closed issue [#6965](https://github.com/typeorm/typeorm/issues/6965) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
+4. ❗️ Opened issue [#27354](https://github.com/ant-design/ant-design/issues/27354) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
+5. 🗣 Commented on [#546](https://github.com/kach/nearley/issues/546) in [kach/nearley](https://github.com/kach/nearley)
 <!--END_SECTION:activity-->

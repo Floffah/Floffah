@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Mangium/mangium/issues/9) in [Mangium/mangium](https://github.com/Mangium/mangium)
-2. 🎉 Merged PR [#1](https://github.com/Floffah/util/pull/1) in [Floffah/util](https://github.com/Floffah/util)
-3. 💪 Opened PR [#1](https://github.com/Floffah/util/pull/1) in [Floffah/util](https://github.com/Floffah/util)
-4. ❗️ Closed issue [#6965](https://github.com/typeorm/typeorm/issues/6965) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
-5. ❗️ Opened issue [#27354](https://github.com/ant-design/ant-design/issues/27354) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
+1. 🗣 Commented on [#3231](https://github.com/tensorflow/tfjs/issues/3231) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+2. 🗣 Commented on [#9](https://github.com/Mangium/mangium/issues/9) in [Mangium/mangium](https://github.com/Mangium/mangium)
+3. 🎉 Merged PR [#1](https://github.com/Floffah/util/pull/1) in [Floffah/util](https://github.com/Floffah/util)
+4. 💪 Opened PR [#1](https://github.com/Floffah/util/pull/1) in [Floffah/util](https://github.com/Floffah/util)
+5. ❗️ Closed issue [#6965](https://github.com/typeorm/typeorm/issues/6965) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
 <!--END_SECTION:activity-->

@@ -15,9 +15,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/Mangium/mangium/pull/6) in [Mangium/mangium](https://github.com/Mangium/mangium)
-2. 🗣 Commented on [#6](https://github.com/Mangium/mangium/issues/6) in [Mangium/mangium](https://github.com/Mangium/mangium)
-3. 🗣 Commented on [#5](https://github.com/Mangium/mangium/issues/5) in [Mangium/mangium](https://github.com/Mangium/mangium)
-4. ❌ Closed PR [#5](https://github.com/Mangium/mangium/pull/5) in [Mangium/mangium](https://github.com/Mangium/mangium)
-5. 🗣 Commented on [#3231](https://github.com/tensorflow/tfjs/issues/3231) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+1. 🗣 Commented on [#9](https://github.com/deanveloper/SkullCreator/issues/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
+2. ❌ Closed PR [#6](https://github.com/Mangium/mangium/pull/6) in [Mangium/mangium](https://github.com/Mangium/mangium)
+3. 🗣 Commented on [#6](https://github.com/Mangium/mangium/issues/6) in [Mangium/mangium](https://github.com/Mangium/mangium)
+4. 🗣 Commented on [#5](https://github.com/Mangium/mangium/issues/5) in [Mangium/mangium](https://github.com/Mangium/mangium)
+5. ❌ Closed PR [#5](https://github.com/Mangium/mangium/pull/5) in [Mangium/mangium](https://github.com/Mangium/mangium)
 <!--END_SECTION:activity-->

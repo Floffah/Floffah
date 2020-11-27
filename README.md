@@ -16,9 +16,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. ❗️ Opened issue [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#9](https://github.com/deanveloper/SkullCreator/issues/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
-4. ❌ Closed PR [#6](https://github.com/Mangium/mangium/pull/6) in [Mangium/mangium](https://github.com/Mangium/mangium)
-5. 🗣 Commented on [#6](https://github.com/Mangium/mangium/issues/6) in [Mangium/mangium](https://github.com/Mangium/mangium)
+1. ❗️ Closed issue [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. ❗️ Opened issue [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#9](https://github.com/deanveloper/SkullCreator/issues/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
 <!--END_SECTION:activity-->

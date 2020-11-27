@@ -16,9 +16,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. ❗️ Opened issue [#3564](https://github.com/AliasIO/wappalyzer/issues/3564) in [AliasIO/wappalyzer](https://github.com/AliasIO/wappalyzer)
+2. ❗️ Closed issue [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 3. 🗣 Commented on [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. ❗️ Opened issue [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 🗣 Commented on [#9](https://github.com/deanveloper/SkullCreator/issues/9) in [deanveloper/SkullCreator](https://github.com/deanveloper/SkullCreator)
+4. 🗣 Commented on [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. ❗️ Opened issue [#13321](https://github.com/storybookjs/storybook/issues/13321) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 <!--END_SECTION:activity-->

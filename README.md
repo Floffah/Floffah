@@ -16,9 +16,9 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1930](https://github.com/snowpackjs/snowpack/pull/1930) in [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack)
-2. 🗣 Commented on [#1570](https://github.com/rstacruz/cheatsheets/issues/1570) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-3. 💪 Opened PR [#1585](https://github.com/rstacruz/cheatsheets/pull/1585) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-4. ❗️ Opened issue [#99](https://github.com/ottomated/CrewLink/issues/99) in [ottomated/CrewLink](https://github.com/ottomated/CrewLink)
-5. 🗣 Commented on [#526](https://github.com/rstacruz/cheatsheets/issues/526) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+1. 🗣 Commented on [#4359](https://github.com/tensorflow/tfjs/issues/4359) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+2. 💪 Opened PR [#1930](https://github.com/snowpackjs/snowpack/pull/1930) in [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack)
+3. 🗣 Commented on [#1570](https://github.com/rstacruz/cheatsheets/issues/1570) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+4. 💪 Opened PR [#1585](https://github.com/rstacruz/cheatsheets/pull/1585) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+5. ❗️ Opened issue [#99](https://github.com/ottomated/CrewLink/issues/99) in [ottomated/CrewLink](https://github.com/ottomated/CrewLink)
 <!--END_SECTION:activity-->

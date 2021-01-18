@@ -10,6 +10,8 @@ A web and software developer from Scotland.
 
 Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https://discord.gg/bc8Y2y9)
 
+See my [active projects](./readme.md)
+
 <img src="https://github-readme-stats.vercel.app/api?username=floffah&count_private=true&show_icons=true&theme=dark" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floffah&layout=compact&theme=dark" height="150"/>
 <img src="https://github-profile-trophy.vercel.app/?username=floffah&theme=onedark"/>
 

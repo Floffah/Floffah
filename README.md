@@ -24,9 +24,9 @@ Anything is appreciated :)
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Floffah/dsmptimeline/pull/1) in [Floffah/dsmptimeline](https://github.com/Floffah/dsmptimeline)
-2. 💪 Opened PR [#1](https://github.com/Floffah/dsmptimeline/pull/1) in [Floffah/dsmptimeline](https://github.com/Floffah/dsmptimeline)
-3. 🎉 Merged PR [#1](https://github.com/Floffah/griefprevention-worldedit/pull/1) in [Floffah/griefprevention-worldedit](https://github.com/Floffah/griefprevention-worldedit)
-4. 🗣 Commented on [#1](https://github.com/Floffah/griefprevention-worldedit/issues/1) in [Floffah/griefprevention-worldedit](https://github.com/Floffah/griefprevention-worldedit)
-5. 💪 Opened PR [#1930](https://github.com/snowpackjs/snowpack/pull/1930) in [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack)
+1. 🎉 Merged PR [#1](https://github.com/Floffah/jsescalate/pull/1) in [Floffah/jsescalate](https://github.com/Floffah/jsescalate)
+2. 💪 Opened PR [#1](https://github.com/Floffah/jsescalate/pull/1) in [Floffah/jsescalate](https://github.com/Floffah/jsescalate)
+3. 🎉 Merged PR [#1](https://github.com/Floffah/dsmptimeline/pull/1) in [Floffah/dsmptimeline](https://github.com/Floffah/dsmptimeline)
+4. 💪 Opened PR [#1](https://github.com/Floffah/dsmptimeline/pull/1) in [Floffah/dsmptimeline](https://github.com/Floffah/dsmptimeline)
+5. 🎉 Merged PR [#1](https://github.com/Floffah/griefprevention-worldedit/pull/1) in [Floffah/griefprevention-worldedit](https://github.com/Floffah/griefprevention-worldedit)
 <!--END_SECTION:activity-->

@@ -24,9 +24,9 @@ Anything is appreciated :)
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Floffah/jsescalate/pull/1) in [Floffah/jsescalate](https://github.com/Floffah/jsescalate)
-2. 💪 Opened PR [#1](https://github.com/Floffah/jsescalate/pull/1) in [Floffah/jsescalate](https://github.com/Floffah/jsescalate)
-3. 🎉 Merged PR [#1](https://github.com/Floffah/dsmptimeline/pull/1) in [Floffah/dsmptimeline](https://github.com/Floffah/dsmptimeline)
-4. 💪 Opened PR [#1](https://github.com/Floffah/dsmptimeline/pull/1) in [Floffah/dsmptimeline](https://github.com/Floffah/dsmptimeline)
-5. 🎉 Merged PR [#1](https://github.com/Floffah/griefprevention-worldedit/pull/1) in [Floffah/griefprevention-worldedit](https://github.com/Floffah/griefprevention-worldedit)
+1. ❌ Closed PR [#10](https://github.com/Floffah/gamermode/pull/10) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
+2. ❌ Closed PR [#9](https://github.com/Floffah/gamermode/pull/9) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
+3. ❌ Closed PR [#8](https://github.com/Floffah/gamermode/pull/8) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
+4. ❌ Closed PR [#7](https://github.com/Floffah/gamermode/pull/7) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
+5. ❌ Closed PR [#6](https://github.com/Floffah/gamermode/pull/6) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
 <!--END_SECTION:activity-->

@@ -24,9 +24,9 @@ Anything is appreciated :)
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Floffah/gamermode/pull/7) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
-2. ❌ Reopened PR [#7](https://github.com/Floffah/gamermode/pull/7) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
-3. 🎉 Merged PR [#10](https://github.com/Floffah/gamermode/pull/10) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
-4. ❌ Reopened PR [#10](https://github.com/Floffah/gamermode/pull/10) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
-5. ❌ Closed PR [#10](https://github.com/Floffah/gamermode/pull/10) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
+1. 🎉 Merged PR [#1](https://github.com/Floffah/build/pull/1) in [Floffah/build](https://github.com/Floffah/build)
+2. 💪 Opened PR [#1](https://github.com/Floffah/build/pull/1) in [Floffah/build](https://github.com/Floffah/build)
+3. 🎉 Merged PR [#7](https://github.com/Floffah/gamermode/pull/7) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
+4. ❌ Reopened PR [#7](https://github.com/Floffah/gamermode/pull/7) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
+5. 🎉 Merged PR [#10](https://github.com/Floffah/gamermode/pull/10) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
 <!--END_SECTION:activity-->

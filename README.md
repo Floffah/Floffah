@@ -24,9 +24,9 @@ Anything is appreciated :)
 ---
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Floffah/collaborated/pull/10) in [Floffah/collaborated](https://github.com/Floffah/collaborated)
-2. 💪 Opened PR [#10](https://github.com/Floffah/collaborated/pull/10) in [Floffah/collaborated](https://github.com/Floffah/collaborated)
-3. 🎉 Merged PR [#1](https://github.com/Floffah/build/pull/1) in [Floffah/build](https://github.com/Floffah/build)
-4. 💪 Opened PR [#1](https://github.com/Floffah/build/pull/1) in [Floffah/build](https://github.com/Floffah/build)
-5. 🎉 Merged PR [#7](https://github.com/Floffah/gamermode/pull/7) in [Floffah/gamermode](https://github.com/Floffah/gamermode)
+1. 🎉 Merged PR [#13](https://github.com/Floffah/collaborated/pull/13) in [Floffah/collaborated](https://github.com/Floffah/collaborated)
+2. 💪 Opened PR [#13](https://github.com/Floffah/collaborated/pull/13) in [Floffah/collaborated](https://github.com/Floffah/collaborated)
+3. 🎉 Merged PR [#12](https://github.com/Floffah/collaborated/pull/12) in [Floffah/collaborated](https://github.com/Floffah/collaborated)
+4. 💪 Opened PR [#12](https://github.com/Floffah/collaborated/pull/12) in [Floffah/collaborated](https://github.com/Floffah/collaborated)
+5. 🎉 Merged PR [#11](https://github.com/Floffah/collaborated/pull/11) in [Floffah/collaborated](https://github.com/Floffah/collaborated)
 <!--END_SECTION:activity-->

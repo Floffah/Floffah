@@ -1,8 +1,4 @@
 name: Metrics
-inputs:
-  plugin_languages:
-    description: Display most used languages metrics
-    default: yes
 on:
   schedule: [{cron: "0 * * * *"}]
   workflow_dispatch:
@@ -11,6 +7,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: floffah/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+      

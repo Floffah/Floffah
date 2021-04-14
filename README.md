@@ -12,8 +12,10 @@ Check out my [blog](https://blog.floffah.dev) and join my [Discord server](https
 
 See my [active projects](projects.md)
 
-<img src="https://github-readme-stats.vercel.app/api?username=floffah&count_private=true&show_icons=true&theme=dark" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floffah&layout=compact&theme=dark" height="150"/>
-<img src="https://github-profile-trophy.vercel.app/?username=floffah&theme=onedark"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=floffah&count_private=true&show_icons=true&theme=dark" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floffah&layout=compact&theme=dark" height="150"/>
+<img src="https://github-profile-trophy.vercel.app/?username=floffah&theme=onedark"/> -->
+
+<img src="https://raw.githubusercontent.com/Floffah/Floffah/master/github-metrics.svg">
 
 ---
 Anything is appreciated :)

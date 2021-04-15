@@ -14,5 +14,4 @@ jobs:
           plugin_habits: yes
           plugin_lines: yes
           plugin_activity: yes
-          plugin_achievements: yes
           plugin_notable: yes

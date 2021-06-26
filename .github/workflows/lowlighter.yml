@@ -18,8 +18,9 @@ jobs:
           plugin_achievements: yes
           plugin_music: yes
           plugin_music_limit: 4
-          plugin_music_playlist: https://open.spotify.com/playlist/2VPvUTLUjFd2nxXuKNTEcQ?si=db4e951e0eba4499
           plugin_music_provider: spotify
+          plugin_music_user: ${{ secrets.SPOTIFY_USERNAME }}
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
           plugin_gists: yes
           plugin_reactions: yes
           plugin_people: yes

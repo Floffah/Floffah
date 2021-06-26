@@ -1209,7 +1209,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            1198 Commits
+            1200 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1326,14 +1326,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.3168496006445" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="235.3168496006445" y="0" width="122.1103591461107" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="357.4272087467552" y="0" width="36.69591906525382" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="394.12312781200905" y="0" width="33.72217807250587" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="427.8453058845149" y="0" width="13.372317600483877" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="441.2176234849988" y="0" width="6.729544516909477" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="447.94716800190827" y="0" width="6.542566073464858" height="8" fill="#990000"/>
-                    <rect mask="url(#languages-bar)" x="454.4897340753731" y="0" width="5.510265924626901" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.34883720930233" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="235.34883720930233" y="0" width="122.09297458311835" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="357.4418117924207" y="0" width="36.690694754056864" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="394.13250654647754" y="0" width="33.71737712577998" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="427.84988367225753" y="0" width="13.370413815257917" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="441.2202974875154" y="0" width="6.7285864475746395" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="447.94888393509" y="0" width="6.5416346238087355" height="8" fill="#990000"/>
+                    <rect mask="url(#languages-bar)" x="454.49051855889877" y="0" width="5.509481441101172" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1434,6 +1434,25 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">Floffah/crossant</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#74d2a14</span>
+                                        <span class="message">more filters</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">Floffah/Floffah</span>
                     </div>
                                 </div>
@@ -1497,31 +1516,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">Floffah/collaborated</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#3a52618</span>
-                                        <span class="message">Merge branch 'master' of https://github.com/Floffah/collaborated</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Sat, 26 Jun 2021 13:24:04  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 26 Jun 2021 14:07:00  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>

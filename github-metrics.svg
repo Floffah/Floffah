@@ -1471,7 +1471,7 @@
                             <div class="label" title="An API (Application Programming Interface) is a collection of protocols and subroutines for building software.">api</div>
                             <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
-                            <div class="label" title="Google, Go, C#, MySQL, Data visualization, Raspberry Pi, GitHub API, JSON, Chrome, Front end, Bash, iOS, 3D, TypeScript, Bot, Code quality, React Native, macOS, Kotlin, ES6, jQuery, Code review, Security, Framework, HTTP, Firefox, GraphQL, Electron, Markdown, Express, Compiler, Shell, Minecraft, Operating system, Babel, Continuous integration, Sass, Server, Documentation, Deployment, Material design, Library, Serverless, Project management, OpenGL, Font, Dependency management, Package manager, Gulp, Storybook, Publishing">and 51 more...</div>
+                            <div class="label" title="Google, Go, C#, MySQL, Data visualization, Raspberry Pi, GitHub API, JSON, Chrome, Front end, Bash, iOS, 3D, TypeScript, Bot, Code quality, React Native, macOS, Kotlin, jQuery, ES6, Code review, Security, Framework, HTTP, Firefox, GraphQL, Electron, Markdown, Express, Compiler, Shell, Minecraft, Operating system, Babel, Continuous integration, Sass, Server, Documentation, Deployment, Material design, Library, Serverless, Project management, OpenGL, Font, Dependency management, Package manager, Gulp, Storybook, Publishing">and 51 more...</div>
                         </div>
                     </section>
                 </div>
@@ -1936,7 +1936,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.2866846744197 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.29556949795472 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2406,7 +2406,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Mon, 28 Jun 2021 08:13:50  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 28 Jun 2021 09:14:05  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>

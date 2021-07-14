@@ -1475,7 +1475,7 @@
                             <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
                             <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
-                            <div class="label" title="API, Data structures, Database, Google, Awesome Lists, Go, C#, MySQL, Data visualization, Raspberry Pi, GitHub API, JSON, Chrome, Front end, Bash, iOS, Chrome extension, Bot, 3D, TypeScript, Code quality, React Native, Kotlin, macOS, ES6, jQuery, Command line interface, Code review, MongoDB, Security, Framework, HTTP, Firefox, GraphQL, npm, Electron, Markdown, Natural language processing, Express, Compiler, Shell, Minecraft, Operating system, Babel, Continuous integration, Sass, Server, Documentation, NoSQL, Deployment, Material design, Library, COVID-19, Serverless, Project management, OpenGL, Maven, ESLint, Font, Dependency management, Elixir, Emoji, Package manager, Gulp, Storybook, Icon font, Publishing, Nim">and 68 more...</div>
+                            <div class="label" title="API, Data structures, Database, Google, Awesome Lists, Go, C#, MySQL, Data visualization, Raspberry Pi, GitHub API, JSON, Chrome, Front end, Bash, iOS, Chrome extension, Bot, 3D, TypeScript, Code quality, React Native, Kotlin, macOS, ES6, jQuery, Command line interface, Code review, MongoDB, Security, Framework, HTTP, Firefox, GraphQL, npm, Electron, Markdown, Natural language processing, Compiler, Express, Shell, Minecraft, Operating system, Babel, Continuous integration, Sass, Server, Documentation, NoSQL, Deployment, Material design, Library, COVID-19, Serverless, Project management, OpenGL, Maven, ESLint, Font, Dependency management, Elixir, Emoji, Package manager, Gulp, Storybook, Icon font, Publishing, Nim">and 68 more...</div>
                         </div>
                     </section>
                 </div>
@@ -1907,7 +1907,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.78127398298768 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.7902995578862 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2377,7 +2377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Wed, 14 Jul 2021 19:13:55  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 14 Jul 2021 20:15:08  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>

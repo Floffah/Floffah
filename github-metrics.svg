@@ -2412,7 +2412,7 @@ I'll add these when I get time to implement the automatic tsbuildinfo system
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 238k out of 78m users
+                      ranked 239k out of 78m users
                     </span>
                   
                   
@@ -2712,7 +2712,7 @@ I'll add these when I get time to implement the automatic tsbuildinfo system
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14/10/2021, 20:09  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 14/10/2021, 21:07  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

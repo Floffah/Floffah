@@ -1660,7 +1660,7 @@
                             <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
                             <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
-                            <div class="label" title="API, Database, Data structures, Awesome Lists, Google, Go, C#, MySQL, Data visualization, Raspberry Pi, GitHub API, Chrome, JSON, Front end, Bash, iOS, Bot, Chrome extension, 3D, Code quality, TypeScript, Command line interface, React Native, macOS, Kotlin, Code review, jQuery, HTTP, MongoDB, Security, Framework, es6, Firefox, GraphQL, PostgreSQL, npm, Electron, Markdown, Compiler, Natural language processing, Express, Shell, Minecraft, Hacktoberfest, Operating system, Continuous integration, Babel, Documentation, Server, Sass, NoSQL, Deployment, Library, Material design, COVID-19, Serverless, Project management, OpenGL, ESLint, Maven, Font, Dependency management, Elixir, Emoji, Package manager, Gulp, Storybook, Icon font, Publishing, Nim">and 70 more...</div>
+                            <div class="label" title="API, Database, Data structures, Google, Awesome Lists, Go, C#, MySQL, Data visualization, Raspberry Pi, GitHub API, Chrome, JSON, Front end, Bash, iOS, Bot, Chrome extension, 3D, Code quality, TypeScript, Command line interface, React Native, macOS, Kotlin, Code review, jQuery, HTTP, MongoDB, Security, Framework, es6, Firefox, GraphQL, PostgreSQL, npm, Electron, Markdown, Compiler, Natural language processing, Express, Shell, Minecraft, Hacktoberfest, Operating system, Continuous integration, Babel, Documentation, Server, Sass, NoSQL, Deployment, Library, Material design, COVID-19, Serverless, Project management, OpenGL, ESLint, Maven, Font, Dependency management, Elixir, Emoji, Package manager, Gulp, Storybook, Icon font, Publishing, Nim">and 70 more...</div>
                         </div>
                     </section>
                 </div>
@@ -2656,7 +2656,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26/10/2021, 13:21  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 26/10/2021, 14:13  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

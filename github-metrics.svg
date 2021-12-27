@@ -2500,7 +2500,7 @@ as soon as i remove the items array it unfreezes
                   <span class="prefix"></span> Maintainer
                   
                     <span class="gh">
-                      ranked 729k out of 272m repositories
+                      ranked 730k out of 272m repositories
                     </span>
                   
                   
@@ -2682,7 +2682,7 @@ as soon as i remove the items array it unfreezes
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Dec 2021, 22:09:34  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 27 Dec 2021, 23:09:33  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

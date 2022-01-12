@@ -401,8 +401,8 @@
                             <div class="label" title="Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.">machine learning</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
-                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
+                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="An API (Application Programming Interface) is a collection of protocols and subroutines for building software.">api</div>
                             <div class="label" title="Deep learning, Database, Data structures, Awesome Lists, Google, Go, C#, MySQL, Data visualization, Raspberry Pi, Chrome, GitHub API, JSON, Front end, Bash, Bot, iOS, Chrome extension, 3D, Command line interface, Code quality, TypeScript, Code review, React Native, macOS, Kotlin, HTTP, jQuery, MongoDB, Security, Framework, Firefox, es6, PostgreSQL, GraphQL, npm, Electron, Markdown, Compiler, Natural language processing, Express, Shell, Minecraft, Hacktoberfest, Operating system, Continuous integration, Babel, Documentation, Server, Sass, NoSQL, Deployment, Library, COVID-19, Material design, Serverless, Project management, OpenGL, ESLint, Maven, Font, Dependency management, Elixir, Emoji, Package manager, Gulp, Storybook, Icon font, Publishing, Nim">and 70 more...</div>
                         </div>
@@ -1355,7 +1355,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2022, 18:11:24  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 12 Jan 2022, 19:08:26  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

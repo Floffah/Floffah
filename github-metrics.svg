@@ -39,17 +39,17 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1512 Commits
+                            1567 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -402,8 +402,8 @@
                             <div class="label" title="Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.">machine learning</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
-                            <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
+                            <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
                             <div class="label" title="An API (Application Programming Interface) is a collection of protocols and subroutines for building software.">api</div>
                             <div class="label" title="Deep learning, Database, Data structures, Awesome Lists, Google, Go, C#, MySQL, Data visualization, Chrome, Raspberry Pi, GitHub API, JSON, Front end, Bash, Bot, iOS, Chrome extension, 3D, Command line interface, Code quality, TypeScript, Code review, React Native, macOS, Kotlin, HTTP, jQuery, MongoDB, Security, Framework, Firefox, es6, PostgreSQL, GraphQL, npm, Electron, Markdown, Compiler, Natural language processing, Express, Shell, Minecraft, Hacktoberfest, Operating system, Continuous integration, Babel, Documentation, Server, Sass, NoSQL, Deployment, Library, COVID-19, Material design, Serverless, Project management, OpenGL, ESLint, Maven, Font, Dependency management, Elixir, Emoji, Package manager, Gulp, Storybook, Icon font, Publishing, Nim">and 70 more...</div>
                         </div>
@@ -1194,7 +1194,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 737k out of 276m repositories</span>
+                                    <span class="gh">ranked 738k out of 276m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 24 stars</div>
                             </div>
@@ -1366,7 +1366,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jan 2022, 23:08:48  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 21 Jan 2022, 00:31:06  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

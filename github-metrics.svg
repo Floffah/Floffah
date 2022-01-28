@@ -1160,7 +1160,7 @@ i have a feeling its a problem with moving to the incremental program/host and m
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 221k out of 84m users</span>
+                                    <span class="gh">ranked 222k out of 84m users</span>
                                 </div>
                                 <div class="text">Followed by 34 users</div>
                             </div>
@@ -1403,7 +1403,7 @@ i have a feeling its a problem with moving to the incremental program/host and m
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jan 2022, 15:09:51  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 28 Jan 2022, 16:17:11  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

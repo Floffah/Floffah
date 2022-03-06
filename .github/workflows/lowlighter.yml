@@ -15,14 +15,14 @@ jobs:
           plugin_lines: yes
           plugin_activity: yes
           plugin_notable: yes
-          plugin_achievements: yes
-          plugin_music: yes
+          plugin_achievements: no
+          plugin_music: no
           plugin_music_limit: 4
           plugin_music_provider: spotify
           plugin_music_user: ${{ secrets.SPOTIFY_USERNAME }}
           plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
-          plugin_gists: yes
-          plugin_reactions: yes
-          plugin_people: yes
+          plugin_gists: no
+          plugin_reactions: no
+          plugin_people: no
           plugin_people_types: followers, following, sponsors, stargazers
-          plugin_topics: yes
+          plugin_topics: no

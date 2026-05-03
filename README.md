@@ -15,6 +15,7 @@ I am also passionate about music production & musical composition. I have an SQA
 * 🧠  I'm currently learning Rust & UI design
 * 👥  I'm looking to collaborate on interesting web, network related, or embedded projects
 * 💬  As a hobby I'm fascinated by protocols and systems (also nuclear ☢️)
+* 😴  I start too many projects I never finish, see the repositories tab for some cool (unfinished) stuff
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,go,java,rust,git,idea,webstorm,neovim,react,next,tailwind,astro,svelte,vite,nodejs,bun,graphql,mongodb,postgres,figma,aws,azure,docker,dotnet)](https://skillicons.dev)
 

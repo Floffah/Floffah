@@ -4,7 +4,9 @@ Hi 👋 My name is Ramsay
 Full stack software engineer
 ----------------------------
 
-Full Stack Software Engineer. Finished 3rd year of a Bachelor's of Engineering (BEng) at Edinburgh Napier University. I will be completing Honours in session 2025-26. I love everything to do with user interfaces in software and developing tools, websites, and applications that make our lives easier. I've been tinkering with software since I was a kid and started my career at a young age, between doing freelance and going on to working for a startup when I was in high school.
+> I'm currently looking for a graduate role related to software! Get in touch at ramsay@ramdta.com 
+
+Full Stack Software Engineer. I have completed a Bachelor of Engineering (BEng) with Honours at Edinburgh Napier University. My honours project has been recommended as a pass, and I am awaiting academic receipt. I love everything to do with user interfaces in software and developing tools, websites, and applications that make our lives easier. I've been tinkering with software since I was a kid and started my career at a young age, between doing freelance and going on to working for a startup when I was in high school.
 
 I am also passionate about music production & musical composition. I have an SQA Advanced Higher in Music Technology and have played piano almost my whole life up to ABRSM grade 6.
 

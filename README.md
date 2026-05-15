@@ -15,7 +15,7 @@ I am also passionate about music production & musical composition. I have an SQA
 * ✉️  You can contact me at [contact@floffah.dev](mailto:contact@floffah.dev)
 * 🚀  I'm currently working on [Postalgo](http://www.postalgo.org)
 * 🧠  I'm currently learning Rust & UI design
-* 👥  I'm looking to collaborate on interesting web, network related, or embedded projects
+* 👥  I'm looking to collaborate on interesting web or network related projects
 * 💬  As a hobby I'm fascinated by protocols and systems (also nuclear ☢️)
 * 😴  I start too many projects I never finish, see the repositories tab for some cool (unfinished) stuff
 

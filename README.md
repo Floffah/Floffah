@@ -13,7 +13,7 @@ I am also passionate about music production & musical composition. I have an SQA
 * 🌍  I'm based in Scotland
 * 🖥️  See my portfolio at [floffah.dev](http://www.floffah.dev/)
 * ✉️  You can contact me at [contact@floffah.dev](mailto:contact@floffah.dev)
-* 🚀  I'm currently working on [Postalgo](http://www.postalgo.org)
+* 🚀  I'm currently working on [Catena](https://github.com/Floffah/catena) and [Postalgo](https://www.postalgo.org)
 * 🧠  I'm currently learning Rust & UI design
 * 👥  I'm looking to collaborate on interesting web or network related projects
 * 💬  As a hobby I'm fascinated by protocols and systems (also nuclear ☢️)

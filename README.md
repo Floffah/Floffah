@@ -6,7 +6,9 @@ Full stack software engineer
 
 > I'm currently looking for a graduate role related to software! Get in touch at ramsay@ramdta.com 
 
-Full Stack Software Engineer. I have completed a Bachelor of Engineering (BEng) with Honours at Edinburgh Napier University. My honours project has been recommended as a pass, and I am awaiting academic receipt. I love everything to do with user interfaces in software and developing tools, websites, and applications that make our lives easier. I've been tinkering with software since I was a kid and started my career at a young age, between doing freelance and going on to working for a startup when I was in high school.
+Full Stack Software Engineer with a first class honours degree in BEng Software Engineering from Edinburgh Napier University. I have good knowledge of industry-standard full stack web frameworks and technologies, including React/NextJS, TailwindCSS, and NodeJS. However, I have past experience in many different technologies: see my skills sections for more information. 
+ 
+I am passionate about software with user interfaces and developing tools, websites, and applications that make our lives easier. I've been tinkering with software since I was a kid and started my career at a young age, between doing freelance and working for a startup when I was in high school.
 
 I am also passionate about music production & musical composition. I have an SQA Advanced Higher in Music Technology and have played piano almost my whole life up to ABRSM grade 6.
 
